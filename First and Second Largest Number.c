@@ -1,3 +1,6 @@
+/*
+Find out the first and second largest number
+*/
 #include<stdio.h>
 int main(){
     int n, i, temp, arr[100];
