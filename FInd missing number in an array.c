@@ -10,5 +10,5 @@ int main(){
     for(i=0; i<n;i++){
         total -= a[i];
     }
-    printf("%d", total);
+    printf("The missing number is : %d", total);
 }
