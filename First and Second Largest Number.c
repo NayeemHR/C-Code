@@ -15,7 +15,7 @@ int main(){
         if(arr[0] < arr[i]){
             temp = arr[0];
             arr[0] = arr[i];
-        }else if(temp<arr[i] && arr[0] > arr[i]){
+        }else if(temp < arr[i] && arr[0] > arr[i]){
             temp = arr[i];
         }
     }
